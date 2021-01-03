@@ -1,0 +1,5 @@
+teniamo questo file di testo come registro delle modifiche fatte e da fare.
+
+sto cercando di capire se si possa creare una cosa tipo github, in modo tale da lavorare direttamente on line senza dover scaricare e riuploadare tutto ogni volta.
+
+tutto è ancora allo stato embrionale, io sto facendo le mappe e piero sta provando un po' di prove per eventi e incontri casuali.

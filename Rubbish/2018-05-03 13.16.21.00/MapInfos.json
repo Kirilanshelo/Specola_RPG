@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Entrance","order":1,"parentId":0,"scrollX":1092,"scrollY":594},
+{"id":2,"expanded":true,"name":"Piano_terra","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":3246},
+{"id":3,"expanded":true,"name":"Crocevia","order":2,"parentId":1,"scrollX":982.8,"scrollY":573.6},
+{"id":4,"expanded":false,"name":"Laboratorio di Ottica","order":4,"parentId":2,"scrollX":1081.3333333333333,"scrollY":606},
+{"id":5,"expanded":true,"name":"Primo_Piano","order":5,"parentId":2,"scrollX":1081.3333333333333,"scrollY":907.3333333333334},
+{"id":6,"expanded":true,"name":"Secondo_Piano","order":6,"parentId":5,"scrollX":1081.3333333333333,"scrollY":1112.6666666666667},
+{"id":7,"expanded":false,"name":"Specola Esterno","order":8,"parentId":2,"scrollX":1081.3333333333333,"scrollY":846},
+{"id":8,"expanded":false,"name":"Grotta di pietra","order":9,"parentId":2,"scrollX":1081.3333333333333,"scrollY":846},
+{"id":9,"expanded":false,"name":"Stanza del computer","order":7,"parentId":5,"scrollX":1081.3333333333333,"scrollY":846},
+{"id":10,"expanded":true,"name":"Grande città","order":10,"parentId":2,"scrollX":1081.3333333333333,"scrollY":858},
+{"id":11,"expanded":false,"name":"Casa malandata","order":11,"parentId":10,"scrollX":1092,"scrollY":594}
+]
